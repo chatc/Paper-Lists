@@ -41,25 +41,25 @@ I would like to thank [CASNLU](https://github.com/casnlu/Semantic-Parsing) for t
 *Zhanming Jie and Wei Lu.* COLING-2014.
 
 ### Under Construction
-1. **Multilingual Semantic Parsing : Parsing Multiple Languages into Semantic Representations**
+1. **Multilingual Semantic Parsing : Parsing Multiple Languages into Semantic Representations** 
 [[paper](https://aclanthology.org/C14-1122.pdf)] 
 
-1. **MTOP: A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark**
+1. **MTOP: A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark**  
 [[paper](https://aclanthology.org/2021.eacl-main.257.pdf)]
 
-1.**Cross-lingual Decompositional Semantic Parsing**
+1.**Cross-lingual Decompositional Semantic Parsing**  
 Sheng Zhang, Xutai Ma, Rachel Rudinger, Kevin Duh, Benjamin Van Durme
 [[paper](https://aclanthology.org/D18-1194.pdf)]
 
-1. **SemEval-2019 Task 1: Cross-lingual Semantic Parsing with UCCA**
+1. **SemEval-2019 Task 1: Cross-lingual Semantic Parsing with UCCA**  
 Daniel Hershcovich, Zohar Aizenbud, Leshem Choshen, Elior Sulem, Ari Rappoport, Omri Abend
 [[paper](https://aclanthology.org/S19-2001v2.pdf)]
 
-1. **Bootstrapping a Crosslingual Semantic Parser**
+1. **Bootstrapping a Crosslingual Semantic Parser** 
 [[paper](https://aclanthology.org/2020.findings-emnlp.45.pdf)]
 Tom Sherborne, Yumo Xu, Mirella Lapata
 
-1. **Frustratingly Simple but Surprisingly Strong: Using Language-Independent Features for Zero-shot Cross-lingual Semantic Parsing**
+1. **Frustratingly Simple but Surprisingly Strong: Using Language-Independent Features for Zero-shot Cross-lingual Semantic Parsing** 
 [[paper](https://aclanthology.org/2021.emnlp-main.472.pdf)] 
 Jingfeng Yang, Federico Fancellu, Bonnie Webber, Diyi Yang
 
